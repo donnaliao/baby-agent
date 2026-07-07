@@ -132,6 +132,7 @@ Return the updated memories using XML tags. Each memory content should be a vali
 
 2. Content principles:
    - Be concise but informative
+   - CRITICAL: Preserve factual accuracy. Do NOT change or confuse programming languages, frameworks, or technologies.
    - Only update memory levels affected by new messages
    - Preserve existing important information
    - Remove outdated or superseded information
